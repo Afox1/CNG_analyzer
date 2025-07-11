@@ -1,0 +1,10 @@
+# CNG Efficiency Analyzer 🚗
+
+This app compares fuel costs between Petrol and CNG, calculates savings, and shows payback period.
+
+### Features:
+- Live cost comparison
+- Monthly & yearly savings charts
+- Download as PDF & Excel
+- Logs user records
+- Built with Streamlit 💻
